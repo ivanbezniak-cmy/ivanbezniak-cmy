@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**ivanbezniak-cmy/ivanbezniak-cmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer building AI-powered travel products at [Layla.ai](https://justasklayla.com)
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Layla.ai** — AI travel platform, 8M+ trips planned worldwide
+- **Partner Platform** — white-label infrastructure powering [Ask Skye](https://escape.com.au/ask-skye) for News Corp Australia
+- Real-time chat interfaces with LLM integration
+- Multi-product frontend architecture
+
+## 💻 Tech Stack
+
+**Languages:** TypeScript, JavaScript  
+**Frontend:** React, Next.js, Tailwind CSS  
+**State:** Redux, Zustand, React Query  
+**AI/LLM:** OpenAI, Anthropic APIs, streaming  
+**Tools:** Git, Vite, Vercel, Figma
+
+## 🌍 Location
+
+Based in Białystok, Poland 🇵🇱
+
+## 📫 Connect
+
+- Email: ivan.bezniak@archonit.co
+- LinkedIn: [Ivan Bezniak](https://www.linkedin.com/in/ivan-bezniak)
+- Working on: [Layla.ai](https://justasklayla.com)
