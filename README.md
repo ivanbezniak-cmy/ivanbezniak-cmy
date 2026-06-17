@@ -19,7 +19,7 @@ Frontend Engineer building AI-powered travel products at [Layla.ai](https://just
 
 ## 🌍 Location
 
-Based in Białystok, Poland 🇵🇱
+Based in Poland 🇵🇱
 
 ## 📫 Connect
 
