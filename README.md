@@ -5,7 +5,6 @@ Frontend Engineer building AI-powered travel products at [Layla.ai](https://just
 ## 🚀 What I'm building
 
 - **Layla.ai** — AI travel platform, 8M+ trips planned worldwide
-- **Partner Platform** — white-label infrastructure powering [Ask Skye](https://escape.com.au/ask-skye) for News Corp Australia
 - Real-time chat interfaces with LLM integration
 - Multi-product frontend architecture
 
